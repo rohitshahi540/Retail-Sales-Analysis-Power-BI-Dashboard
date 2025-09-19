@@ -78,6 +78,4 @@ large share of sales, helping target retention strategies.
 • Discounts are effectively managed as reflected in an optimal profit margin of ~14%.
 
 
-This project content can be used as a detailed section in your project report or presentation
-to explain dataset objectives, KPIs tracked, and insights derived from your Power BI
-dashboard visuals.
+
